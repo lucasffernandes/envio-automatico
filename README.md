@@ -31,4 +31,4 @@ PARA EXECUTAR O CÓDIGO:
    precedido da palavra: 'python'.
     Ex de caminho:
 
-   "C:\Users\Lucas\Documents\Estudos\python\Envio automatizado wpp\python enviar_wpp.py"
+   "C:\Users\Lucas\Documents\Estudos\python\envio_auto\python enviar_wpp.py"
