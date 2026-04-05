@@ -4,8 +4,8 @@ import pyautogui
 
 # Lista de contatos (nome, telefone)
 contatos = [
-    ("Michelle", "+5531983697363"),
-    ("Lucas", "+5531991491595"),
+    ("Michelle", "+55319xxxxxxxx"),
+    ("Lucas", "+55319xxxxxxxx"),
     # ("Carlos", "+5511977777777")
 ]
 
